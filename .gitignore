@@ -1,0 +1,14 @@
+*.exe
+*.msi
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.dmg
+*.pkg
+dist/
+build/
+release/
+*.log
+.DS_Store
